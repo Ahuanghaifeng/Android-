@@ -1,8 +1,8 @@
-package CommonModule.Http;
+package commonmodule.Http;
 
 import android.content.Context;
 
-import CommonModule.View.SimpleLoadDialog;
+import commonmodule.View.SimpleLoadDialog;
 import rx.Subscriber;
 
 /**

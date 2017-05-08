@@ -1,9 +1,9 @@
-package CommonModule.BaseUi;
+package commonmodule.BaseUi;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 
-import CommonModule.Http.ActivityLifeCycleEvent;
+import commonmodule.Http.ActivityLifeCycleEvent;
 import rx.subjects.PublishSubject;
 
 /**

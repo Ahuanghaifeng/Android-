@@ -1,4 +1,4 @@
-package CommonModule.BaseUi;
+package commonmodule.BaseUi;
 
 import android.app.Application;
 

@@ -1,4 +1,4 @@
-package CommonModule.Utils;
+package commonmodule.Utils;
 
 import android.app.Activity;
 import android.content.Context;

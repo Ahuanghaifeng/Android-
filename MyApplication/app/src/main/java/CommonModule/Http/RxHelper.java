@@ -1,9 +1,9 @@
-package CommonModule.Http;
+package commonmodule.Http;
 
 
 import android.support.annotation.NonNull;
 
-import CommonModule.RequestBean.HttpResult;
+import commonmodule.RequestBean.HttpResult;
 import rx.Observable;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;

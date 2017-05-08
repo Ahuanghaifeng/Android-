@@ -1,4 +1,4 @@
-package CommonModule.Utils;
+package commonmodule.Utils;
 
 /**
  * Created by haifeng on 2016/7/20.

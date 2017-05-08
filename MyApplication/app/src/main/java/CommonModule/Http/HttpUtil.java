@@ -1,6 +1,6 @@
-package CommonModule.Http;
+package commonmodule.Http;
 
-import CommonModule.RequestBean.HttpResult;
+import commonmodule.RequestBean.HttpResult;
 import rx.Observable;
 import rx.functions.Action0;
 import rx.subjects.PublishSubject;

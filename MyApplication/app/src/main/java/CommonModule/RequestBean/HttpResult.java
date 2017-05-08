@@ -1,4 +1,4 @@
-package CommonModule.RequestBean;
+package commonmodule.RequestBean;
 
 /**
  * Created by haifeng on 2016/10/10 11:44.

@@ -1,4 +1,4 @@
-package CommonModule.Http;
+package commonmodule.Http;
 
 public class Url {
     /**

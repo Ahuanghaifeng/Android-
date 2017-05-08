@@ -1,4 +1,4 @@
-package CommonModule.Http;
+package commonmodule.Http;
 
 import android.os.Environment;
 import android.support.annotation.NonNull;

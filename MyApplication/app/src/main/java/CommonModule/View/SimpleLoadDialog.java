@@ -1,4 +1,4 @@
-package CommonModule.View;
+package commonmodule.View;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -13,7 +13,7 @@ import android.view.Window;
 import com.commonmodule.myapplication.R;
 import java.lang.ref.WeakReference;
 
-import CommonModule.Http.ProgressCancelListener;
+import commonmodule.Http.ProgressCancelListener;
 
 
 /**
